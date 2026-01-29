@@ -1,4 +1,22 @@
-# 项目名称
+<div align='center'>
+    <img src="./logo.png" alt="alt text" width="100%">
+    <h1>Easy-langent（⚠️ Alpha内测版）</h1>
+</div>
+
+> [!CAUTION]
+> ⚠️ Alpha内测版本警告：此为早期内部构建版本，尚不完整且可能存在错误，欢迎大家提Issue反馈问题或建议。
+
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/datawhalechina/easy-langent?style=flat-square)](https://github.com/datawhalechina/easy-langent/stargazers) [![GitHub forks](https://img.shields.io/github/forks/datawhalechina/easy-langent?style=flat-square)](https://github.com/datawhalechina/easy-langent/network/members) [![GitHub issues](https://img.shields.io/github/issues/datawhalechina/easy-langent?style=flat-square)](https://github.com/datawhalechina/easy-langent/issues) [![GitHub license](https://img.shields.io/github/license/datawhalechina/easy-langent?style=flat-square)](https://github.com/datawhalechina/easy-langent/blob/main/LICENSE)
+
+📚 在线阅读地址 (正在筹备，尽情期待...)
+
+📚 简单的lang框架智能体开发实践教程
+
+</div>
+
+## 项目介绍
 
 当大模型技术从“单点能力突破”迈向“场景化应用落地”，智能体（Agent）已成为连接技术与实际需求的核心载体。然而，多数初学者在接触智能体开发时，常陷入“框架概念繁杂、实操无从下手、技术与应用脱节”的困境——要么被复杂的理论体系吓退，要么掌握了框架基础却不知如何落地真实项目。
 
@@ -6,12 +24,16 @@
 
 本项目配套的学习大纲遵循“循序渐进、实践导向”的设计原则，从框架基础认知入手，逐步深入核心组件实操、进阶应用开发，再到多智能体协作与系统优化，最终通过综合实战完成知识闭环。我们摒弃冗余的理论堆砌，聚焦“用框架做开发”的核心需求，每一章都配套针对性的实操任务，确保读者在学习过程中能够动手实践、深化理解。
 
-> [!CAUTION]
-> ⚠️ Alpha内测版本警告：此为早期内部构建版本，尚不完整且可能存在错误，欢迎大家提Issue反馈问题或建议。
-
 ## 项目受众
 
 无论你是希望入门智能体开发的高校学生，还是寻求技术落地的开发者，都能通过本项目找到清晰的学习路径。
+
+**前置知识要求：**
+
+- 熟悉Python编程语言基础
+- 对大模型技术有基本了解
+- 对智能体的核心概念有基本了解
+
 
 ## 📖 内容导航
 
@@ -41,8 +63,8 @@
 
 <div align="left">
 
-<a href="https://github.com/muxiaoxiong/easy-langent/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=muxiaoxiong/easy-langent" />
+<a href="https://github.com/datawhalechina/easy-langent/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=datawhalechina/easy-langent" />
 </a>
 
 </div>
